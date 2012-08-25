@@ -1,0 +1,11 @@
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\bin\Debug\ExemploEFCodeFirst.dll.config
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\bin\Debug\ExemploEFCodeFirst.dll
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\bin\Debug\ExemploEFCodeFirst.pdb
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.dll
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.pdb
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.Migrations.Init.resources
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.csproj.GenerateResource.Cache
+C:\Users\Thiago\Documents\GitHub\exemplo-ef-codefirst\ExemploEFCodeFirst\ExemploEFCodeFirst\obj\Debug\ExemploEFCodeFirst.Migrations.AdicionadoOModeloPost.resources
